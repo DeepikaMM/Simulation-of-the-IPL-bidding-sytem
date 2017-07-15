@@ -1,0 +1,2 @@
+# Simulation-of-the-IPL-bidding-sytem
+In this code I will be  implementing the simulation of the IPL bidding system for one player where the player is auctioned before a fixed number of franchises (bidders). Each bidder has a fixed budget available before participating in the auction. When a bidder bids for a certain price, all the bidders will know the value the player is bid for. After one bidder, another bidder can start to bid above that price.
